@@ -224,10 +224,10 @@ Possible applications include:
 
 Files
 
-roundRobinArbiter/
+Weighted-Round-Robin-Arbiter-Verilog/
 │
-├── roundRobinArbiter.v
-├── roundRobinArbiter_tb.v
+├── weighted_round_robin_arbiter.v
+├── weighted_round_robin_arbiter_tb.v
 └── README.md
 
 ---
